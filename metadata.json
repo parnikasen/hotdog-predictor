@@ -1,0 +1,6 @@
+{
+  "name": "Hot Dog Not Hot Dog CNN Classifier",
+  "description": "Convolutional Neural Network image classifier for Hot Dog vs Not Hot Dog with sample photos, upload, and dataset evaluation metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
